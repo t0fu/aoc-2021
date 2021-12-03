@@ -41,16 +41,6 @@ print(int(oxygen,2))
 print(int(co2,2))
 print( int(oxygen,2) * int(co2,2))
 
-
-
-
-
-# print(int(oxygen,2), int(co2,2))
-# print(int(oxygen,2)*int(co2,2))
-
-# print(zeroes, ones)
-# print(values)
-
   
 
 
